@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- [ ] Get up
+- [ ] Switch coffee machine om
+- [ ] Make coffee
+- [ ] Work hard
